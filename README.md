@@ -28,6 +28,9 @@ La actividad consistió en diseñar e implementar un sistema P2P (peer-to-peer) 
 
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
+## Esquema de la arquitectura del modelo gRPC que se uso para el desarrollo del reto
+![image](https://github.com/Jucept/JulioPosada-st0263/assets/82523496/0085102b-71c6-4b92-b5b1-a3cef9999ecd)
+
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
